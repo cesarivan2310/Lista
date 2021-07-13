@@ -19,16 +19,6 @@ http://51.222.105.5:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
 http://51.222.105.5:8081/tecno/TNT_Series.TecnoByte/chunks.m3u8
 
 
-#EXTINF:0,antena 3 #EXTGRP:Mexico SD http://xgtv.club:8080/gratis3315921/gtv4817385/38744.ts #EXTINF:0,axn #EXTGRP:Mexico SD http://xgtv.club:8080/gratis3315921/gtv4817385/38745.ts #EXTINF:0,aym sports #EXTGRP:Mexico SD http://xgtv.club:8080/gratis3315921/gtv4817385/38746.ts #EXTINF:0,az cinema #EXTGRP:Mexico SD http://xgtv.club:8080/gratis3315921/gtv4817385/38747.ts 
-
-EXTINF:-1 tvg-logo="http://unitytv.xyz:25461/images/72e973b0e982957fc08a546fbd2ea366.png" group-title="LATINO LOCAL NETWORKS", (OFFLINE) 00 | GALAVISION (EAST)
-http://web24.live:8080/Audrey123/Audrey123/46775
-
-#EXTINF:-1 tvg-logo="http://unitytv.xyz:25461/images/263838cec9c35ca4d80e37a82a196494.png" group-title="LATINO LOCAL NETWORKS", (ONLINE) 00 | GALAVISION (EAST)
-http://web24.live:8080/Audrey123/Audrey123/46796
-
-#EXTINF:0 tvg-id="Azteca7.mx" group-title="Mexico SD",azteca 7
-http://xgtv.club:8080/gratis1517965/gtv9191824/38750.ts
 
 
 
