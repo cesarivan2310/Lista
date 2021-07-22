@@ -1,362 +1,344 @@
 #EXTM3U
 
-#EXTINF:-1, TUDN
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=0174&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, Simpsons
-http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-
-
-#EXTINF:0,animalplanet
-http://51.222.105.5:8081/tecno/AnimalPlanet.TecnoByte/chunks.m3u8
-#EXTINF:0,discovery
-http://51.222.105.5:8081/tecno/DiscoveryChannel.TecnoByte/chunks.m3u8
-#EXTINF:0,hbo
-http://51.222.105.5:8081/tecno/HBO.Tecnobyte/chunks.m3u8
-#EXTINF:0,hboplus
-http://51.222.105.5:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
-#EXTINF:0,tntseries
-http://51.222.105.5:8081/tecno/TNT_Series.TecnoByte/chunks.m3u8
-
-
-
-
-
-﻿﻿#EXTINF:-1, Univision 
-http://208.88.246.11:4153/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
-
-﻿﻿#EXTINF:-1, Unimas
-http://208.88.246.11:4153/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
-
-﻿﻿#EXTINF:-1, Galavasion 
-http://208.88.246.11:4153/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
-
-﻿﻿#EXTINF:-1, A&E HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=62&format=HLS&f=.m3u8
-
-#EXTINF:-1, ADN 40
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=40&format=HLS&f=.m3u8
-
-#EXTINF:-1, AMC 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=131&format=HLS&f=.m3u8
-
-#EXTINF:-1, AMC HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=328&format=HLS&f=.m3u8
-
-#EXTINF:-1, Animal Planet
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=088&format=HLS&f=.m3u8
-
-#EXTINF:-1, AXN HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=64&format=HLS&f=.m3u8
-
-#EXTINF:-1, AyM Sports
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=180&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AZ Clic 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=11&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AZ Corazón 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=70&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AZ Mundo
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=84&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, Azteca 7
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=2&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, Bandamax
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=221&format=HLS&f=.m3u8
-
-#EXTINF:-1, Boomerang
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=115&format=HLS&f=.m3u8
-
-#EXTINF:-1, las Estrellas
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=17&format=HLS&f=.m3u8
-
-#EXTINF:-1, las estrellas -1
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=2671&format=HLS&f=.m3u8
-
-#EXTINF:-1, las estrellas -2
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=2662&format=HLS&f=.m3u8
-
-#EXTINF:-1, ADN 40
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=402&format=HLS&f=.m3u8
-
-#EXTINF:-1, Canal 5
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=20&format=HLS&f=.m3u8
-
-#EXTINF:-1, Cartoon Network
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=112&format=HLS&f=.m3u8
-
-#EXTINF:-1, Cinecanal
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=149&format=HLS&f=.m3u8
-
-#EXTINF:-1, Cinecanal
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=337&format=HLS&f=.m3u8
-
-#EXTINF:-1, Cinemax
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=158&format=HLS&f=.m3u8
-
-#EXTINF:-1, Comedy Central
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=340&format=HLS&f=.m3u8
-
-#EXTINF:-1, De Película HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=121&format=HLS&f=.m3u8
-
-#EXTINF:-1, De Pelicula
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=335&format=HLS&f=.m3u8
-
-#EXTINF:-1, Discovery Channel
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=86&format=HLS&f=.m3u8
-
-#EXTINF:-1, Discovery Civilization
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=99&format=HLS&f=.m3u8
-
-#EXTINF:-1, Discovery Kids
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=109&format=HLS&f=.m3u8
-
-#EXTINF:-1, Discovery Science
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=98&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, Discovery Theater HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=95&format=HLS&f=.m3u8
-
-#EXTINF:-1, Discovery Turbo
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=100&format=HLS&f=.m3u8
-
-#EXTINF:-1, Discovery World HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=101&format=HLS&f=.m3u8
-
-#EXTINF:-1, Disney Channel
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=113&format=HLS&f=.m3u8
-
-#EXTINF:-1, Disney Jr
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=118&format=HLS&f=.m3u8
-
-#EXTINF:-1, Disney XD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=111&format=HLS&f=.m3u8
-
-#EXTINF:-1, Distrito Comedia
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=78&format=HLS&f=.m3u8
-
-#EXTINF:-1, E! Entertainment
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=55&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, El Garage TV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=75&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, El Gourmet
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=74&format=HLS&f=.m3u8
-
-#EXTINF:-1, ESPN Internacional
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=168&format=HLS&f=.m3u8
-
-#EXTINF:-1, ESPN 2 HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=169&format=HLS&f=.m3u8
-
-#EXTINF:-1, ESPN 3
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=345&format=HLS&f=.m3u8
-
-#EXTINF:-1, ESPN +
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=167&format=HLS&f=.m3u8
-
-#EXTINF:-1, Foro TV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=700&format=HLS&f=.m3u8
-
-#EXTINF:-1, Fox Channel
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=201&format=HLS&f=.m3u8
-
-#EXTINF:-1,FOX Action HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=336&format=HLS&f=.m3u8
-
-#EXTINF:-1, Fox HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=46&format=HLS&f=.m3u8
-
-#EXTINF:-1, Fox Life
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=77&format=HLS&f=.m3u8
-
-#EXTINF:-1, FOX Movies 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=146&format=HLS&f=.m3u8
-
-#EXTINF:-1, FOX Series
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=139&format=HLS&f=.m3u8
-
-#EXTINF:-1, FOX Cinema
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=1729&format=HLS&f=.m3u8
-
-#EXTINF:-1, FOX Classic
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=1732&format=HLS&f=.m3u8
-
-#EXTINF:-1, FOX Comedy
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=1725&format=HLS&f=.m3u8
-
-#EXTINF:-1, FOX Family 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=1724&format=HLS&f=.m3u8
-
-#EXTINF:-1, Fox Sports
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=170&format=HLS&f=.m3u8
-
-#EXTINF:-1, Fox Sports 2
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=172&format=HLS&f=.m3u8
-
-#EXTINF:-1, Fox Sport 3
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=178&format=HLS&f=.m3u8
-
-#EXTINF:-1, FX
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=56&format=HLS&f=.m3u8
-
-#EXTINF:-1, FX
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=60&format=HLS&f=.m3u8
-
-#EXTINF:-1, Gala TV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=24&format=HLS&f=.m3u8
-
-#EXTINF:-1, Glitz
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=76&format=HLS&f=.m3u8
-
-#EXTINF:-1, Golf Channel Latin America
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=179&format=HLS&f=.m3u8
-
-#EXTINF:-1, Golden Edge
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=0124&format=HLS&f=.m3u8
-
-#EXTINF:-1, Golden Plus
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=0123&format=HLS&f=.m3u8
-
-#EXTINF:-1, Golden HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=122&format=HLS&f=.m3u8
-
-#EXTINF:-1, History Channel
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=89&format=HLS&f=.m3u8
-
-#EXTINF:-1, Discovery H&H
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=96&format=HLS&f=.m3u8
-
-#EXTINF:-1, ID
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=68&format=HLS&f=.m3u8
-
-#EXTINF:-1, ISAT
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=135&format=HLS&f=.m3u8
-
-#EXTINF:-1, Lifetime
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=94&format=HLS&f=.m3u8
-
-#EXTINF:-1, Milenio TV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=1252&format=HLS&f=.m3u8
-
-#EXTINF:-1, MTV HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=212&format=HLS&f=.m3u8
-
-#EXTINF:-1, MTV Hits
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=213&format=HLS&f=.m3u8
-
-#EXTINF:-1, MTV Live
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=211&format=HLS&f=.m3u8
-
-#EXTINF:-1, Multimedios Plus
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=1253&format=HLS&f=.m3u8
-
-#EXTINF:-1, Multimedios Monterrey
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=2305&format=HLS&f=.m3u8
-
-#EXTINF:-1, National Geographic
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=91&format=HLS&f=.m3u8
-
-#EXTINF:-1, Nat Geo Kids
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=2373&format=HLS&f=.m3u8
-
-#EXTINF:-1, Nat Geo Wild HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=92&format=HLS&f=.m3u8
-
-#EXTINF:-1, Nick
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=110&format=HLS&f=.m3u8
-
-#EXTINF:-1, Nick HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=331&format=HLS&f=.m3u8
-
-#EXTINF:-1, Nick Jr
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=117&format=HLS&f=.m3u8
-
-#EXTINF:-1, Once TV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=1942&format=HLS&f=.m3u8
-
-#EXTINF:-1, Planet X HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=950&format=HLS&f=.m3u8
-
-#EXTINF:-1, Ritmoson
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=218&format=HLS&f=.m3u8
-
-#EXTINF:-1, Sony HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=48&format=HLS&f=.m3u8
-
-#EXTINF:-1, Space
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=130&format=HLS&f=.m3u8
-
-#EXTINF:-1, Space HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=129&format=HLS&f=.m3u8
-
-#EXTINF:-1, Studio Universal
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=132&format=HLS&f=.m3u8
-
-#EXTINF:-1, SyFy
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=59&format=HLS&f=.m3u8
-
-#EXTINF:-1, TBS Very Funny
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=81&format=HLS&f=.m3u8
-
-#EXTINF:-1, TCM
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=128&format=HLS&f=.m3u8
-
-#EXTINF:-1, Teleformula
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=32&format=HLS&f=.m3u8
-
-#EXTINF:-1, Telehit HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=220&format=HLS&f=.m3u8
-
-#EXTINF:-1, The Film Zone HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=138&format=HLS&f=.m3u8
-
-#EXTINF:-1, Tiin
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=2591&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TLC
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=97&format=HLS&f=.m3u8
-
-#EXTINF:-1, TLnovelas
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=83&format=HLS&f=.m3u8
-
-#EXTINF:-1, TNT
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=127&format=HLS&f=.m3u8
-
-#EXTINF:-1, TNT HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=126&format=HLS&f=.m3u8
-
-#EXTINF:-1, TNT Series
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=71&format=HLS&f=.m3u8
-
-#EXTINF:-1, Tooncast
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=108&format=HLS&f=.m3u8
-
-#EXTINF:-1, TruTV HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=79&format=HLS&f=.m3u8
-
-#EXTINF:-1, TVE
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=198&format=HLS&f=.m3u8
-
-#EXTINF:-1, Universal Channel
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=58&format=HLS&f=.m3u8
-
-#EXTINF:-1, Universal Channel
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=57&format=HLS&f=.m3u8
-
-#EXTINF:-1, VH1 Classics
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=214&format=HLS&f=.m3u8
-
-#EXTINF:-1, VH1 HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=334&format=HLS&f=.m3u8
-
-#EXTINF:-1, Warner Channel
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=52&format=HLS&f=.m3u8
-
-#EXTINF:-1, Wobi HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=102&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png",CANAL TOTALPLAY
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1973&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s101096_dark_360w_270h.png",IMAGEN TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2298&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s24519_dark_360w_270h.png",AZTECA UNO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=7&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s114756_dark_360w_270h.png",AZTECA 7
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=317&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s92197_dark_360w_270h.png",AZ CLIC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=11&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s61404_dark_360w_270h.png",AZ CORAZON
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=70&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79968_dark_360w_270h.png",AZ MUNDO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=84&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16461_dark_360w_270h.png",LAS ESTRELLAS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2362&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91868_dark_360w_270h.png",TELEVISA PUEBLA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2312&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="https://i.ibb.co/MGKVgP7/4-TV.png",CANAL 4
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16463_dark_360w_270h.png",CANAL 5
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2218&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91703_dark_360w_270h.png",CANAL 8 (TELEVISA MONTERREY)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2307&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s114360_dark_360w_270h.png",NU9VE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=24&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s36139_dark_360w_270h.png",ONCE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=25&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s28440_dark_360w_270h.png",MEXIQUENSE TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=44&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s34344_dark_360w_270h.png",TELEFORMULA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=32&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s50500_dark_360w_270h.png",MULTIMEDIOS MTY
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2305&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s99620_dark_360w_270h.png",MULTIMEDIOS CDMX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1253&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s45710_dark_360w_270h.png",APRENDE TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=401&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s15213_dark_360w_270h.png",MVS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2149&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16292_dark_360w_270h.png",TVC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2156&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s104892_dark_360w_270h.png",A+
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2348&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s20548_dark_360w_270h.png",CANAL DEL CONGRESO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2331&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16141_dark_360w_270h.png",CARTOON NETWORK
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=112&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s63109_dark_360w_270h.png",TOONCAST
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=108&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s55719_dark_360w_270h.png",BOOMERANG
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=115&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16707_dark_360w_270h.png",NICK
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=331&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s77783_dark_360w_270h.png",TEENNICK
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2147&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s90209_dark_360w_270h.png",NICKMUSIC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1708&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s60295_dark_360w_270h.png",NICK JR
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=117&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79589_dark_360w_270h.png",DISNEY CHANNEL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=113&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16563_dark_360w_270h.png",DISNEY XD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=111&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s61311_dark_360w_270h.png",DISNEY JR
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=118&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s45955_dark_360w_270h.png",DISCOVERY KIDS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=109&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s105877_dark_360w_270h.png",NAT GEO KIDS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2373&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s56036_dark_360w_270h.png",BABY FIRST
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1984&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s56036_dark_360w_270h.png",BABY TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=116&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16288_dark_360w_270h.png",DE PELICULA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=335&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74016_dark_360w_270h.png",DE PELICULA +
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=121&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s95687_dark_360w_270h.png",AZTECA CINEMA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1787&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s106214_dark_360w_270h.png",PARAMOUNT CHANNEL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1726&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s58835_dark_360w_270h.png",STAR ACTION
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=336&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s98730_dark_360w_270h.png",STAR CLASSICS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1732&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s65400_dark_360w_270h.png",STAR FUN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1724&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s73049_dark_360w_270h.png",STAR HITS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1729&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png",CINEMAX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=158&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16435_dark_360w_270h.png",CINECANAL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=149&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16298_dark_360w_270h.png",GOLDEN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=123&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16298_dark_360w_270h.png",GOLDEN PREMIER
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2386.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s68317_dark_360w_270h.png",GOLDEN +
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=122&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16423_dark_360w_270h.png",GOLDEN EDGE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=124&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s19246_dark_360w_270h.png",TCM
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=128&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80807_dark_360w_270h.png",TNT
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=126&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png",HBO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2389.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png",HBO LATINO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2388.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80652_dark_360w_270h.png",HBO 2
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2391.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80118_dark_360w_270h.png",HBO Family
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2395.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87164_dark_360w_270h.png",HBO MUNDI
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/27530.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82003_dark_360w_270h.png",HBO PLUS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2392.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91408_dark_360w_270h.png",HBO POP
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/954.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74450_dark_360w_270h.png",HBO SIGNATURE
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2604.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80115_dark_360w_270h.png",HBO XTREME
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/955.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s29017_dark_360w_270h.png",STUDIO UNIVERSAL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=132&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s90852_dark_360w_270h.png",AMC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=328&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s75073_dark_360w_270h.png",TBS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=81&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s66349_dark_360w_270h.png",SPACE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=129&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s88305_dark_360w_270h.png",FILMS & ARTS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=137&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16574_dark_360w_270h.png",EUROPA CHANNEL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=136&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16497_dark_360w_270h.png",I-SAT
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=135&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s107890_dark_360w_270h.png",MORBIDO TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=140&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s95131_dark_360w_270h.png",STAR CHANNEL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=46&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s46442_dark_360w_270h.png",FX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=60&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s49263_dark_360w_270h.png",STAR LIFE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=77&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17960_dark_360w_270h.png",STAR SERIES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=139&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s97928_dark_360w_270h.png",DISCOVERY H&H
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=96&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s19385_dark_360w_270h.png",SONY
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=48&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16213_dark_360w_270h.png",WARNER
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=205&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16799_dark_360w_270h.png",UNIVERSAL CHANNEL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=57&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s107366_dark_360w_270h.png",TNT SERIES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=71&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s64835_dark_360w_270h.png",TELEMUNDO INTERNACIONAL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=85&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84425_dark_360w_270h.png",UNICABLE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1499&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s55980_dark_360w_270h.png",DISTRITO COMEDIA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=78&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s37232_dark_360w_270h.png",TL NOVELAS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=83&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18955_dark_360w_270h.png",A&E
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=62&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s72534_dark_360w_270h.png",AXN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=64&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74528_dark_360w_270h.png",COMEDY CENTRAL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=340&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s30259_dark_360w_270h.png",E!
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=55&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87061_dark_360w_270h.png",COSMO (ES)
+http://91.126.141.201:1935/live/cosmoHD/chunklist_w1035779792.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82970_dark_360w_270h.png",¡HOLA! TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=219&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s61514_dark_360w_270h.png",GLITZ
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=76&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s45910_dark_360w_270h.png",EL GOURMET
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=74&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91919_dark_360w_270h.png",FOOD NETWORK (HD)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2145&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s90682_dark_360w_270h.png",LIFETIME
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=94&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s34412_dark_360w_270h.png",MAS CHIC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1842&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16496_dark_360w_270h.png",TRUTV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=215&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s56727_dark_360w_270h.png",SYFY
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=59&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s90309_dark_360w_270h.png",ANTENA 3
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=199&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16800_dark_360w_270h.png",A3 SERIES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2113&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s106724_dark_360w_270h.png",STAR TVE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2375&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s96307_dark_360w_270h.png",DISCOVERY CHANNEL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=86&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s46609_dark_360w_270h.png",DISCOVERY CIVILIZATION
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=98&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s65342_dark_360w_270h.png",DISCOVERY ID
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2376&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s65940_dark_360w_270h.png",DISCOVERY THEATER
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=95&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s46608_dark_360w_270h.png",DISCOVERY TURBO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2379&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s66488_dark_360w_270h.png",DISCOVERY WORLD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=101&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s88533_dark_360w_270h.png",NAT GEO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=91&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s66491_dark_360w_270h.png",NAT GEO WILD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=92&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s40137_dark_360w_270h.png",HISTORY
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=89&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s107374_dark_360w_270h.png",ANIMAL PLANET
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2378&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74420_dark_360w_270h.png",TLC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2380&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://i.ibb.co/YLzBnMs/Garage-TV.png",GARAGE TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=75&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12712_dark_360w_270h.png",MTV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=212&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s67787_dark_360w_270h.png",MTV HITS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=213&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s66419_dark_360w_270h.png",MTV LIVE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=211&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s42567_dark_360w_270h.png",VH1
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=334&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74162_dark_360w_270h.png",VH1 CLASSIC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=214&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s15210_dark_360w_270h.png",TELEHIT MÚSICA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=218&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s73070_dark_360w_270h.png",TELEHIT +
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=220&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s103449_dark_360w_270h.png",KPop (US)
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18101_dark_360w_270h.png",BANDAMAX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=221&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="https://sc.dish.com/shared/images/station-logos/TLRMO.PNG",TELERITMO
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s38683_dark_360w_270h.png",TUDN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=174&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.ibb.co/WFp8BTr/Claro-Sports.png",Claro Sports
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2564&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s34863_dark_360w_270h.png",AYM SPORTS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=180&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s72625_dark_360w_270h.png",PXSPORTS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=950&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s57580_dark_360w_270h.png",TVC DEPORTES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2157&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s96876_dark_360w_270h.png",ESPN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=169&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s110964_dark_360w_270h.png",ESPN 2
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=168&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25595_dark_360w_270h.png",ESPN 3
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=345&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s65930_dark_360w_270h.png",ESPN +
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=167&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59307_dark_360w_270h.png",FOX SPORTS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=170&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s71328_dark_360w_270h.png",FOX SPORTS 2
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=172&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.ibb.co/zRv3FHB/Fox-Sports-3.png",FOX SPORTS 3
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=178&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s83166_dark_360w_270h.png",ADRENALINA SPORTS HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2404&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s61033_dark_360w_270h.png",GOLF
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=179&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s61719_dark_360w_270h.png",MILENIO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1252&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16462_dark_360w_270h.png",FORO TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=700&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s15384_dark_360w_270h.png",ADN 40
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=184&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82353_dark_360w_270h.png",EXCELSIOR TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1449&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s58646_dark_360w_270h.png",CNN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=185&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s27773_dark_360w_270h.png",CNN Ñ
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=187&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s110959_dark_360w_270h.png",FOX NEWS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=188&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87311_dark_360w_270h.png",BLOOMBERG
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=190&format=HLS&f=.m3u8
+
+
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png" group-title="Cine",HBO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2389.m3u8
+
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO LATINO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png" group-title="Cine",HBO LATINO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2388.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80652_dark_360w_270h.png" group-title="Cine",HBO 2
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2391.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80118_dark_360w_270h.png" group-title="Cine",HBO Family
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2395.m3u8
+
+#EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87164_dark_360w_270h.png" group-title="Cine",HBO MUNDI
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/27530.m3u8
+
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82003_dark_360w_270h.png" group-title="Cine",HBO PLUS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2392.m3u8
+
+#EXTINF:-1 tvg-id="HBOPop.mx" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91408_dark_360w_270h.png" group-title="Cine",HBO POP
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/954.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74450_dark_360w_270h.png" group-title="Cine",HBO SIGNATURE
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2604.m3u8
+
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80115_dark_360w_270h.png" group-title="Cine",HBO XTREME
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/955.m3u8
+
+
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png" group-title="Cine",HBO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2389.m3u8
+
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO LATINO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png" group-title="Cine",HBO LATINO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2388.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80652_dark_360w_270h.png" group-title="Cine",HBO 2
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2391.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80118_dark_360w_270h.png" group-title="Cine",HBO Family
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2395.m3u8
+
+#EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87164_dark_360w_270h.png" group-title="Cine",HBO MUNDI
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/27530.m3u8
+
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82003_dark_360w_270h.png" group-title="Cine",HBO PLUS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2392.m3u8
+
+#EXTINF:-1 tvg-id="HBOPop.mx" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91408_dark_360w_270h.png" group-title="Cine",HBO POP
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/954.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74450_dark_360w_270h.png" group-title="Cine",HBO SIGNATURE
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2604.m3u8
+
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80115_dark_360w_270h.png" group-title="Cine",HBO XTREME
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/955.m3u8
