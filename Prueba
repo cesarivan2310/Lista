@@ -2,26 +2,26 @@
 
 
 #EXTINF:0,DISCOVERY Theater
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1/PROFILE05.m3u8
 
 #EXTINF:0,DISCOVERY THEATER
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE05.m3u8
 #EXTINF:0,HISTORY
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3/PROFILE05.m3u8
 #EXTINF:0,NATGEO WILD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL4/PROFILE05.m3u8
 #EXTINF:0,DISCOVERY WORLD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL5/PROFILE05.m3u8
 #EXTINF:0,DISCOVERY CHANNEL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL6/PROFILE05.m3u8
 #EXTINF:0,ANIMAL PLANET
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE05.m3u8
 #EXTINF:0,H&H
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL8/PROFILE05.m3u8
 #EXTINF:0,NATGEO
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL9/PROFILE05.m3u8
 #EXTINF:0,LIFETIME
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL10/PROFILE05.m3u8
 #EXTINF:0, DISCOVERY SCIENCE
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
 #EXTINF:0,DISCOVERY CIVILIZATION
